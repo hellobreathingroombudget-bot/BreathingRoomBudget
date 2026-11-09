@@ -1,0 +1,51 @@
+{
+  "week": "2026-11-16",
+  "day": 6,
+  "post_date": "2026-11-21",
+  "topic": "Planner walk-through",
+  "canva_design_id": "DAHaZ5IEC90",
+  "slides": [
+    {
+      "file": "slide-01.png",
+      "post_position": 1,
+      "canva_page": 1,
+      "role": "cover"
+    },
+    {
+      "file": "slide-02.png",
+      "post_position": 2,
+      "canva_page": 2,
+      "role": "body"
+    },
+    {
+      "file": "slide-03.png",
+      "post_position": 3,
+      "canva_page": 3,
+      "role": "body"
+    },
+    {
+      "file": "slide-04.png",
+      "post_position": 4,
+      "canva_page": 4,
+      "role": "body"
+    },
+    {
+      "file": "slide-05.png",
+      "post_position": 5,
+      "canva_page": 5,
+      "role": "body"
+    },
+    {
+      "file": "slide-06.png",
+      "post_position": 6,
+      "canva_page": 6,
+      "role": "body"
+    },
+    {
+      "file": "slide-07.png",
+      "post_position": 7,
+      "canva_page": 7,
+      "role": "cta"
+    }
+  ]
+}

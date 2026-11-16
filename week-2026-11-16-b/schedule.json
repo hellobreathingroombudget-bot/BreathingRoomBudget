@@ -1,6 +1,6 @@
 {
   "batch": "week-2026-11-16-b",
-  "note": "Images exported and order-verified. Captions and approval live outside the repo; status is not Approved until Bob approves.",
+  "note": "All 7 posts approved by Bob and scheduled in Buffer (Instagram, 5:00 AM America/Denver). Captions point to the free Your First $1,000 kit.",
   "posts": [
     {
       "day": 1,
@@ -9,8 +9,8 @@
       "topic": "The monthly scramble",
       "canva_design_id": "DAHbAtETca4",
       "slides": 7,
-      "status": "Draft",
-      "buffer_post_id": null
+      "status": "Scheduled",
+      "buffer_post_id": "6afab82f06e1675856d6e9a4"
     },
     {
       "day": 2,
@@ -19,8 +19,8 @@
       "topic": "The surprise bill fund",
       "canva_design_id": "DAHbAibDLiI",
       "slides": 7,
-      "status": "Draft",
-      "buffer_post_id": null
+      "status": "Scheduled",
+      "buffer_post_id": "6afab82fd7e5fee638ada645"
     },
     {
       "day": 3,
@@ -29,8 +29,8 @@
       "topic": "The 15-minute money date",
       "canva_design_id": "DAHbApqsXpw",
       "slides": 7,
-      "status": "Draft",
-      "buffer_post_id": null
+      "status": "Scheduled",
+      "buffer_post_id": "6afab83060a910801c7a7b83"
     },
     {
       "day": 4,
@@ -39,8 +39,8 @@
       "topic": "Needs, wants, gray area",
       "canva_design_id": "DAHbArgvjQw",
       "slides": 7,
-      "status": "Draft",
-      "buffer_post_id": null
+      "status": "Scheduled",
+      "buffer_post_id": "6afab8318e87c256a3c05f8c"
     },
     {
       "day": 5,
@@ -49,8 +49,8 @@
       "topic": "Small-amount savings challenge",
       "canva_design_id": "DAHbAqq2WPQ",
       "slides": 7,
-      "status": "Draft",
-      "buffer_post_id": null
+      "status": "Scheduled",
+      "buffer_post_id": "6afab83106e1675856d6ef8e"
     },
     {
       "day": 6,
@@ -59,8 +59,8 @@
       "topic": "Holiday spending planned early",
       "canva_design_id": "DAHbAphaIhI",
       "slides": 7,
-      "status": "Draft",
-      "buffer_post_id": null
+      "status": "Scheduled",
+      "buffer_post_id": "6afab833ff465c57dae162fa"
     },
     {
       "day": 7,
@@ -69,8 +69,8 @@
       "topic": "The Sunday reset",
       "canva_design_id": "DAHbAtNVcp8",
       "slides": 6,
-      "status": "Draft",
-      "buffer_post_id": null
+      "status": "Scheduled",
+      "buffer_post_id": "6afab83460a910801c7a7ee9"
     }
   ]
 }

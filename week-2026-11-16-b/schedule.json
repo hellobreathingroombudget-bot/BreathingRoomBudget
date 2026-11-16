@@ -1,0 +1,76 @@
+{
+  "batch": "week-2026-11-16-b",
+  "note": "Images exported and order-verified. Captions and approval live outside the repo; status is not Approved until Bob approves.",
+  "posts": [
+    {
+      "day": 1,
+      "post_date": "2026-11-16",
+      "post_time": "05:00 America/Denver",
+      "topic": "The monthly scramble",
+      "canva_design_id": "DAHbAtETca4",
+      "slides": 7,
+      "status": "Draft",
+      "buffer_post_id": null
+    },
+    {
+      "day": 2,
+      "post_date": "2026-11-17",
+      "post_time": "05:00 America/Denver",
+      "topic": "The surprise bill fund",
+      "canva_design_id": "DAHbAibDLiI",
+      "slides": 7,
+      "status": "Draft",
+      "buffer_post_id": null
+    },
+    {
+      "day": 3,
+      "post_date": "2026-11-18",
+      "post_time": "05:00 America/Denver",
+      "topic": "The 15-minute money date",
+      "canva_design_id": "DAHbApqsXpw",
+      "slides": 7,
+      "status": "Draft",
+      "buffer_post_id": null
+    },
+    {
+      "day": 4,
+      "post_date": "2026-11-19",
+      "post_time": "05:00 America/Denver",
+      "topic": "Needs, wants, gray area",
+      "canva_design_id": "DAHbArgvjQw",
+      "slides": 7,
+      "status": "Draft",
+      "buffer_post_id": null
+    },
+    {
+      "day": 5,
+      "post_date": "2026-11-20",
+      "post_time": "05:00 America/Denver",
+      "topic": "Small-amount savings challenge",
+      "canva_design_id": "DAHbAqq2WPQ",
+      "slides": 7,
+      "status": "Draft",
+      "buffer_post_id": null
+    },
+    {
+      "day": 6,
+      "post_date": "2026-11-21",
+      "post_time": "05:00 America/Denver",
+      "topic": "Holiday spending planned early",
+      "canva_design_id": "DAHbAphaIhI",
+      "slides": 7,
+      "status": "Draft",
+      "buffer_post_id": null
+    },
+    {
+      "day": 7,
+      "post_date": "2026-11-22",
+      "post_time": "05:00 America/Denver",
+      "topic": "The Sunday reset",
+      "canva_design_id": "DAHbAtNVcp8",
+      "slides": 6,
+      "status": "Draft",
+      "buffer_post_id": null
+    }
+  ]
+}
